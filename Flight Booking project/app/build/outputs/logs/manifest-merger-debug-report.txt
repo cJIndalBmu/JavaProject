@@ -1,0 +1,683 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/chandanjindal/AndroidStudioProjects/Flight Booking deepak/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /Users/chandanjindal/AndroidStudioProjects/Flight Booking deepak/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /Users/chandanjindal/AndroidStudioProjects/Flight Booking deepak/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /Users/chandanjindal/AndroidStudioProjects/Flight Booking deepak/app/src/main/AndroidManifest.xml:2:1-41:12
+MERGED from [com.google.android.gms:play-services:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/022686216b9d7340e1cf66c766af441a/transformed/play-services-9.6.1/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-cast-framework:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/bd7e53a58bc7ffd5499815dbda4d4da9/transformed/play-services-cast-framework-9.6.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-cast:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/7c3bb00c05c825f0e3b61ba80ae6d972/transformed/play-services-cast-9.6.1/AndroidManifest.xml:16:1-19:12
+MERGED from [com.android.support:mediarouter-v7:24.0.0] /Users/chandanjindal/.gradle/caches/transforms-3/acc77fb11cb0500da1f6e1db003e04a3/transformed/mediarouter-v7-24.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:24.0.0] /Users/chandanjindal/.gradle/caches/transforms-3/81cd004e4a31d1effc698a082b99412f/transformed/appcompat-v7-24.0.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-awareness:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/20dbe2017eba23102d636ee6cb0bc2ea/transformed/play-services-awareness-9.6.1/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-places:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/bdcfa0be416cb28f7efdc8615b51c62a/transformed/play-services-places-9.6.1/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-wallet:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/245fb8664aa543a763c2b8fb31990a53/transformed/play-services-wallet-9.6.1/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-maps:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/dac417e8071f771136b3e57daea44a4b/transformed/play-services-maps-9.6.1/AndroidManifest.xml:16:1-25:12
+MERGED from [com.android.support:animated-vector-drawable:24.0.0] /Users/chandanjindal/.gradle/caches/transforms-3/8d70954892f96c5ee7ae18a479e2e36c/transformed/animated-vector-drawable-24.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:24.0.0] /Users/chandanjindal/.gradle/caches/transforms-3/2dcb8c70e5c7dffc4496251c51c14cf9/transformed/support-vector-drawable-24.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/04b4bfd96952fd7f6afc4c95132c9de4/transformed/play-services-ads-9.6.1/AndroidManifest.xml:16:1-18:12
+MERGED from [com.google.android.gms:play-services-analytics:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/4aacee4ed00f52b610b336c739a7f39a/transformed/play-services-analytics-9.6.1/AndroidManifest.xml:16:1-27:12
+MERGED from [com.google.android.gms:play-services-tagmanager:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/2f31350a5c0afd450ab3fbd43a75c95c/transformed/play-services-tagmanager-9.6.1/AndroidManifest.xml:16:1-18:12
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/34fc83483ce373d70be536ee59e721f4/transformed/play-services-analytics-impl-9.6.1/AndroidManifest.xml:16:1-27:12
+MERGED from [com.google.android.gms:play-services-appinvite:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/b847b03dbd7bd35b1738c57c7a9996da/transformed/play-services-appinvite-9.6.1/AndroidManifest.xml:16:1-27:12
+MERGED from [com.google.android.gms:play-services-auth:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/04e5d501b0da464c47c8d39fe9332ccf/transformed/play-services-auth-9.6.1/AndroidManifest.xml:16:1-26:12
+MERGED from [com.google.android.gms:play-services-auth-base:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/e1ec9262dc55f3e5b7ba8c2f5ec7b6fe/transformed/play-services-auth-base-9.6.1/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-clearcut:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/2736db4aff75cd8b7a15e08d83343e4d/transformed/play-services-clearcut-9.6.1/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.firebase:firebase-config:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/5d1e9377959ac387045da39a369ccd4b/transformed/firebase-config-9.6.1/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-games:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/156327f33675f666053fc0b7bfed34e6/transformed/play-services-games-9.6.1/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-drive:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/40455d128a4a10aea2b2d0225b03da7b/transformed/play-services-drive-9.6.1/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.firebase:firebase-auth:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/68744ffeae71cc99cc7698e31233ec0b/transformed/firebase-auth-9.6.1/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.firebase:firebase-auth-common:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/2bfbc2c354b06ed87406d2047fbc8847/transformed/firebase-auth-common-9.6.1/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.firebase:firebase-auth-module:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/6f2398f5d55c8287af2e6212fbaad0d8/transformed/firebase-auth-module-9.6.1/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-fitness:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/fc8428ae180025bc837aa57e0ed853eb/transformed/play-services-fitness-9.6.1/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-gcm:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/dce10d5ebcb1a0f03d7b4224cbd0e751/transformed/play-services-gcm-9.6.1/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-appindexing:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/0a1d1a5035189c4fbfb5c5db696be64d/transformed/play-services-appindexing-9.6.1/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-identity:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/8081269fef5a6d86cf2f841fe5231f81/transformed/play-services-identity-9.6.1/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-iid:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/0531acddf25e7720ef1b01ca10d0457b/transformed/play-services-iid-9.6.1/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-instantapps:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/493709a60f9dfd060a170fde2891c096/transformed/play-services-instantapps-9.6.1/AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.android.gms:play-services-location:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/753260a8cb80c82a09aa2628a762a4d2/transformed/play-services-location-9.6.1/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-nearby:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/05800f79f9d5ad258832f05819476c76/transformed/play-services-nearby-9.6.1/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-panorama:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/b4bd3ce1e3a015ee514f6279e0ab8cf1/transformed/play-services-panorama-9.6.1/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-plus:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/a35fe6ae490592013893544c59c6d6b3/transformed/play-services-plus-9.6.1/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-safetynet:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/bd3b0e6378203e47ed7f29fe4c8ab856/transformed/play-services-safetynet-9.6.1/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-vision:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/00176d07f4499b86dfba239da143c571/transformed/play-services-vision-9.6.1/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-wearable:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/d6ccf2ff40f533fe7b770e81c5b9f349/transformed/play-services-wearable-9.6.1/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-base:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/ed505bdd17a9d51f6b519ab3177dda39/transformed/play-services-base-9.6.1/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-ads-lite:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/46bbd947414bd6d19ca1a1e2551c4824/transformed/play-services-ads-lite-9.6.1/AndroidManifest.xml:16:1-28:12
+MERGED from [com.google.firebase:firebase-crash:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/1441d5c1cabecadc2a9fb52e1eae79ac/transformed/firebase-crash-9.6.1/AndroidManifest.xml:16:1-30:12
+MERGED from [com.google.firebase:firebase-database:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/a51de974ed4f168be3a96c077cf021f3/transformed/firebase-database-9.6.1/AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-database-connection:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/81852f70f4a9e59e610883aaa03dec05/transformed/firebase-database-connection-9.6.1/AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-messaging:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/daf5de14df4363146f0359733b06717a/transformed/firebase-messaging-9.6.1/AndroidManifest.xml:16:1-30:12
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/95f6b2906bf83d417c98960a99d4fdba/transformed/play-services-tagmanager-api-9.6.1/AndroidManifest.xml:16:1-34:12
+MERGED from [com.google.firebase:firebase-analytics:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/82210cfc5d91cac247cbf2caa584f292/transformed/firebase-analytics-9.6.1/AndroidManifest.xml:16:1-34:12
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/eafb84d9738770aa47ff20fe38166a72/transformed/firebase-analytics-impl-9.6.1/AndroidManifest.xml:16:1-29:12
+MERGED from [com.google.firebase:firebase-iid:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/72ed435bb6e38e03fcfa36d0926f4061/transformed/firebase-iid-9.6.1/AndroidManifest.xml:16:1-51:12
+MERGED from [com.google.firebase:firebase-storage:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/8c85dcdabb5cd89d698a0789fb3bc3de/transformed/firebase-storage-9.6.1/AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-storage-common:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/81e967b6ec0468d56f44a61c1d202046/transformed/firebase-storage-common-9.6.1/AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-common:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/5c8119b3864c65550ad80f218d9a8a5d/transformed/firebase-common-9.6.1/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-gass:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/f8109d09a6b2a17e820e3a21b589be2b/transformed/play-services-gass-9.6.1/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-tasks:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/34ca16a3321a5427c1dc9ecb897756f3/transformed/play-services-tasks-9.6.1/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/26f31b8faaa88396c43eecbd688ffeac/transformed/play-services-basement-9.6.1/AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:palette-v7:24.0.0] /Users/chandanjindal/.gradle/caches/transforms-3/05678a6c575830135389204821939714/transformed/palette-v7-24.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-v4:24.0.0] /Users/chandanjindal/.gradle/caches/transforms-3/4fdbbfeac86aab60e1ff62ab1168b17f/transformed/support-v4-24.0.0/AndroidManifest.xml:17:1-27:12
+INJECTED from /Users/chandanjindal/AndroidStudioProjects/Flight Booking deepak/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /Users/chandanjindal/AndroidStudioProjects/Flight Booking deepak/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /Users/chandanjindal/AndroidStudioProjects/Flight Booking deepak/app/src/main/AndroidManifest.xml:2:1-41:12
+	package
+		ADDED from /Users/chandanjindal/AndroidStudioProjects/Flight Booking deepak/app/src/main/AndroidManifest.xml:3:5-46
+		INJECTED from /Users/chandanjindal/AndroidStudioProjects/Flight Booking deepak/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/chandanjindal/AndroidStudioProjects/Flight Booking deepak/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/chandanjindal/AndroidStudioProjects/Flight Booking deepak/app/src/main/AndroidManifest.xml
+		ADDED from /Users/chandanjindal/AndroidStudioProjects/Flight Booking deepak/app/src/main/AndroidManifest.xml:2:1-41:12
+		INJECTED from /Users/chandanjindal/AndroidStudioProjects/Flight Booking deepak/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/chandanjindal/AndroidStudioProjects/Flight Booking deepak/app/src/main/AndroidManifest.xml
+		ADDED from /Users/chandanjindal/AndroidStudioProjects/Flight Booking deepak/app/src/main/AndroidManifest.xml:2:1-41:12
+		INJECTED from /Users/chandanjindal/AndroidStudioProjects/Flight Booking deepak/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/chandanjindal/AndroidStudioProjects/Flight Booking deepak/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/chandanjindal/AndroidStudioProjects/Flight Booking deepak/app/src/main/AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from /Users/chandanjindal/AndroidStudioProjects/Flight Booking deepak/app/src/main/AndroidManifest.xml:6:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /Users/chandanjindal/AndroidStudioProjects/Flight Booking deepak/app/src/main/AndroidManifest.xml:7:5-66
+MERGED from [com.google.android.gms:play-services-maps:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/dac417e8071f771136b3e57daea44a4b/transformed/play-services-maps-9.6.1/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/dac417e8071f771136b3e57daea44a4b/transformed/play-services-maps-9.6.1/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/4aacee4ed00f52b610b336c739a7f39a/transformed/play-services-analytics-9.6.1/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/4aacee4ed00f52b610b336c739a7f39a/transformed/play-services-analytics-9.6.1/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/34fc83483ce373d70be536ee59e721f4/transformed/play-services-analytics-impl-9.6.1/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/34fc83483ce373d70be536ee59e721f4/transformed/play-services-analytics-impl-9.6.1/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/b847b03dbd7bd35b1738c57c7a9996da/transformed/play-services-appinvite-9.6.1/AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/b847b03dbd7bd35b1738c57c7a9996da/transformed/play-services-appinvite-9.6.1/AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-gcm:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/dce10d5ebcb1a0f03d7b4224cbd0e751/transformed/play-services-gcm-9.6.1/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-gcm:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/dce10d5ebcb1a0f03d7b4224cbd0e751/transformed/play-services-gcm-9.6.1/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/0531acddf25e7720ef1b01ca10d0457b/transformed/play-services-iid-9.6.1/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/0531acddf25e7720ef1b01ca10d0457b/transformed/play-services-iid-9.6.1/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/46bbd947414bd6d19ca1a1e2551c4824/transformed/play-services-ads-lite-9.6.1/AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/46bbd947414bd6d19ca1a1e2551c4824/transformed/play-services-ads-lite-9.6.1/AndroidManifest.xml:19:5-66
+MERGED from [com.google.firebase:firebase-crash:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/1441d5c1cabecadc2a9fb52e1eae79ac/transformed/firebase-crash-9.6.1/AndroidManifest.xml:18:5-66
+MERGED from [com.google.firebase:firebase-crash:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/1441d5c1cabecadc2a9fb52e1eae79ac/transformed/firebase-crash-9.6.1/AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/95f6b2906bf83d417c98960a99d4fdba/transformed/play-services-tagmanager-api-9.6.1/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/95f6b2906bf83d417c98960a99d4fdba/transformed/play-services-tagmanager-api-9.6.1/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/82210cfc5d91cac247cbf2caa584f292/transformed/firebase-analytics-9.6.1/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/82210cfc5d91cac247cbf2caa584f292/transformed/firebase-analytics-9.6.1/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/eafb84d9738770aa47ff20fe38166a72/transformed/firebase-analytics-impl-9.6.1/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/eafb84d9738770aa47ff20fe38166a72/transformed/firebase-analytics-impl-9.6.1/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/72ed435bb6e38e03fcfa36d0926f4061/transformed/firebase-iid-9.6.1/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/72ed435bb6e38e03fcfa36d0926f4061/transformed/firebase-iid-9.6.1/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from /Users/chandanjindal/AndroidStudioProjects/Flight Booking deepak/app/src/main/AndroidManifest.xml:7:22-64
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from /Users/chandanjindal/AndroidStudioProjects/Flight Booking deepak/app/src/main/AndroidManifest.xml:8:5-97
+	android:name
+		ADDED from /Users/chandanjindal/AndroidStudioProjects/Flight Booking deepak/app/src/main/AndroidManifest.xml:8:22-95
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/chandanjindal/AndroidStudioProjects/Flight Booking deepak/app/src/main/AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from /Users/chandanjindal/AndroidStudioProjects/Flight Booking deepak/app/src/main/AndroidManifest.xml:9:22-78
+uses-permission#android.permission.CALL_PHONE
+ADDED from /Users/chandanjindal/AndroidStudioProjects/Flight Booking deepak/app/src/main/AndroidManifest.xml:11:5-69
+	android:name
+		ADDED from /Users/chandanjindal/AndroidStudioProjects/Flight Booking deepak/app/src/main/AndroidManifest.xml:11:22-66
+application
+ADDED from /Users/chandanjindal/AndroidStudioProjects/Flight Booking deepak/app/src/main/AndroidManifest.xml:14:5-39:19
+MERGED from [com.google.android.gms:play-services:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/022686216b9d7340e1cf66c766af441a/transformed/play-services-9.6.1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/022686216b9d7340e1cf66c766af441a/transformed/play-services-9.6.1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-cast-framework:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/bd7e53a58bc7ffd5499815dbda4d4da9/transformed/play-services-cast-framework-9.6.1/AndroidManifest.xml:4:5-8:19
+MERGED from [com.google.android.gms:play-services-cast-framework:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/bd7e53a58bc7ffd5499815dbda4d4da9/transformed/play-services-cast-framework-9.6.1/AndroidManifest.xml:4:5-8:19
+MERGED from [com.google.android.gms:play-services-cast:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/7c3bb00c05c825f0e3b61ba80ae6d972/transformed/play-services-cast-9.6.1/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-cast:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/7c3bb00c05c825f0e3b61ba80ae6d972/transformed/play-services-cast-9.6.1/AndroidManifest.xml:18:5-19
+MERGED from [com.android.support:mediarouter-v7:24.0.0] /Users/chandanjindal/.gradle/caches/transforms-3/acc77fb11cb0500da1f6e1db003e04a3/transformed/mediarouter-v7-24.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:mediarouter-v7:24.0.0] /Users/chandanjindal/.gradle/caches/transforms-3/acc77fb11cb0500da1f6e1db003e04a3/transformed/mediarouter-v7-24.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:24.0.0] /Users/chandanjindal/.gradle/caches/transforms-3/81cd004e4a31d1effc698a082b99412f/transformed/appcompat-v7-24.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:24.0.0] /Users/chandanjindal/.gradle/caches/transforms-3/81cd004e4a31d1effc698a082b99412f/transformed/appcompat-v7-24.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-awareness:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/20dbe2017eba23102d636ee6cb0bc2ea/transformed/play-services-awareness-9.6.1/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-awareness:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/20dbe2017eba23102d636ee6cb0bc2ea/transformed/play-services-awareness-9.6.1/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-places:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/bdcfa0be416cb28f7efdc8615b51c62a/transformed/play-services-places-9.6.1/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-places:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/bdcfa0be416cb28f7efdc8615b51c62a/transformed/play-services-places-9.6.1/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-maps:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/dac417e8071f771136b3e57daea44a4b/transformed/play-services-maps-9.6.1/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-maps:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/dac417e8071f771136b3e57daea44a4b/transformed/play-services-maps-9.6.1/AndroidManifest.xml:24:5-19
+MERGED from [com.android.support:animated-vector-drawable:24.0.0] /Users/chandanjindal/.gradle/caches/transforms-3/8d70954892f96c5ee7ae18a479e2e36c/transformed/animated-vector-drawable-24.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.0.0] /Users/chandanjindal/.gradle/caches/transforms-3/8d70954892f96c5ee7ae18a479e2e36c/transformed/animated-vector-drawable-24.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.0.0] /Users/chandanjindal/.gradle/caches/transforms-3/2dcb8c70e5c7dffc4496251c51c14cf9/transformed/support-vector-drawable-24.0.0/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:24.0.0] /Users/chandanjindal/.gradle/caches/transforms-3/2dcb8c70e5c7dffc4496251c51c14cf9/transformed/support-vector-drawable-24.0.0/AndroidManifest.xml:23:5-20
+MERGED from [com.google.android.gms:play-services-analytics:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/4aacee4ed00f52b610b336c739a7f39a/transformed/play-services-analytics-9.6.1/AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-analytics:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/4aacee4ed00f52b610b336c739a7f39a/transformed/play-services-analytics-9.6.1/AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/34fc83483ce373d70be536ee59e721f4/transformed/play-services-analytics-impl-9.6.1/AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/34fc83483ce373d70be536ee59e721f4/transformed/play-services-analytics-impl-9.6.1/AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-appinvite:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/b847b03dbd7bd35b1738c57c7a9996da/transformed/play-services-appinvite-9.6.1/AndroidManifest.xml:19:5-26:19
+MERGED from [com.google.android.gms:play-services-appinvite:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/b847b03dbd7bd35b1738c57c7a9996da/transformed/play-services-appinvite-9.6.1/AndroidManifest.xml:19:5-26:19
+MERGED from [com.google.android.gms:play-services-auth:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/04e5d501b0da464c47c8d39fe9332ccf/transformed/play-services-auth-9.6.1/AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-auth:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/04e5d501b0da464c47c8d39fe9332ccf/transformed/play-services-auth-9.6.1/AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-clearcut:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/2736db4aff75cd8b7a15e08d83343e4d/transformed/play-services-clearcut-9.6.1/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-clearcut:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/2736db4aff75cd8b7a15e08d83343e4d/transformed/play-services-clearcut-9.6.1/AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-config:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/5d1e9377959ac387045da39a369ccd4b/transformed/firebase-config-9.6.1/AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-config:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/5d1e9377959ac387045da39a369ccd4b/transformed/firebase-config-9.6.1/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-games:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/156327f33675f666053fc0b7bfed34e6/transformed/play-services-games-9.6.1/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-games:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/156327f33675f666053fc0b7bfed34e6/transformed/play-services-games-9.6.1/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-drive:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/40455d128a4a10aea2b2d0225b03da7b/transformed/play-services-drive-9.6.1/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-drive:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/40455d128a4a10aea2b2d0225b03da7b/transformed/play-services-drive-9.6.1/AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-auth:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/68744ffeae71cc99cc7698e31233ec0b/transformed/firebase-auth-9.6.1/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-auth:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/68744ffeae71cc99cc7698e31233ec0b/transformed/firebase-auth-9.6.1/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-auth-common:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/2bfbc2c354b06ed87406d2047fbc8847/transformed/firebase-auth-common-9.6.1/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-auth-common:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/2bfbc2c354b06ed87406d2047fbc8847/transformed/firebase-auth-common-9.6.1/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.android.gms:play-services-fitness:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/fc8428ae180025bc837aa57e0ed853eb/transformed/play-services-fitness-9.6.1/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-fitness:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/fc8428ae180025bc837aa57e0ed853eb/transformed/play-services-fitness-9.6.1/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-gcm:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/dce10d5ebcb1a0f03d7b4224cbd0e751/transformed/play-services-gcm-9.6.1/AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-gcm:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/dce10d5ebcb1a0f03d7b4224cbd0e751/transformed/play-services-gcm-9.6.1/AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-appindexing:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/0a1d1a5035189c4fbfb5c5db696be64d/transformed/play-services-appindexing-9.6.1/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-appindexing:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/0a1d1a5035189c4fbfb5c5db696be64d/transformed/play-services-appindexing-9.6.1/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-identity:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/8081269fef5a6d86cf2f841fe5231f81/transformed/play-services-identity-9.6.1/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-identity:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/8081269fef5a6d86cf2f841fe5231f81/transformed/play-services-identity-9.6.1/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-iid:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/0531acddf25e7720ef1b01ca10d0457b/transformed/play-services-iid-9.6.1/AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-iid:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/0531acddf25e7720ef1b01ca10d0457b/transformed/play-services-iid-9.6.1/AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-location:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/753260a8cb80c82a09aa2628a762a4d2/transformed/play-services-location-9.6.1/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-location:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/753260a8cb80c82a09aa2628a762a4d2/transformed/play-services-location-9.6.1/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-nearby:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/05800f79f9d5ad258832f05819476c76/transformed/play-services-nearby-9.6.1/AndroidManifest.xml:5:5-19
+MERGED from [com.google.android.gms:play-services-nearby:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/05800f79f9d5ad258832f05819476c76/transformed/play-services-nearby-9.6.1/AndroidManifest.xml:5:5-19
+MERGED from [com.google.android.gms:play-services-panorama:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/b4bd3ce1e3a015ee514f6279e0ab8cf1/transformed/play-services-panorama-9.6.1/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-panorama:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/b4bd3ce1e3a015ee514f6279e0ab8cf1/transformed/play-services-panorama-9.6.1/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-plus:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/a35fe6ae490592013893544c59c6d6b3/transformed/play-services-plus-9.6.1/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-plus:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/a35fe6ae490592013893544c59c6d6b3/transformed/play-services-plus-9.6.1/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/bd3b0e6378203e47ed7f29fe4c8ab856/transformed/play-services-safetynet-9.6.1/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/bd3b0e6378203e47ed7f29fe4c8ab856/transformed/play-services-safetynet-9.6.1/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-vision:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/00176d07f4499b86dfba239da143c571/transformed/play-services-vision-9.6.1/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-vision:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/00176d07f4499b86dfba239da143c571/transformed/play-services-vision-9.6.1/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-wearable:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/d6ccf2ff40f533fe7b770e81c5b9f349/transformed/play-services-wearable-9.6.1/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-wearable:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/d6ccf2ff40f533fe7b770e81c5b9f349/transformed/play-services-wearable-9.6.1/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/ed505bdd17a9d51f6b519ab3177dda39/transformed/play-services-base-9.6.1/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/ed505bdd17a9d51f6b519ab3177dda39/transformed/play-services-base-9.6.1/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-ads-lite:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/46bbd947414bd6d19ca1a1e2551c4824/transformed/play-services-ads-lite-9.6.1/AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.gms:play-services-ads-lite:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/46bbd947414bd6d19ca1a1e2551c4824/transformed/play-services-ads-lite-9.6.1/AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.firebase:firebase-crash:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/1441d5c1cabecadc2a9fb52e1eae79ac/transformed/firebase-crash-9.6.1/AndroidManifest.xml:22:5-28:19
+MERGED from [com.google.firebase:firebase-crash:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/1441d5c1cabecadc2a9fb52e1eae79ac/transformed/firebase-crash-9.6.1/AndroidManifest.xml:22:5-28:19
+MERGED from [com.google.firebase:firebase-messaging:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/daf5de14df4363146f0359733b06717a/transformed/firebase-messaging-9.6.1/AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.firebase:firebase-messaging:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/daf5de14df4363146f0359733b06717a/transformed/firebase-messaging-9.6.1/AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/95f6b2906bf83d417c98960a99d4fdba/transformed/play-services-tagmanager-api-9.6.1/AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/95f6b2906bf83d417c98960a99d4fdba/transformed/play-services-tagmanager-api-9.6.1/AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.firebase:firebase-analytics:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/82210cfc5d91cac247cbf2caa584f292/transformed/firebase-analytics-9.6.1/AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/82210cfc5d91cac247cbf2caa584f292/transformed/firebase-analytics-9.6.1/AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/eafb84d9738770aa47ff20fe38166a72/transformed/firebase-analytics-impl-9.6.1/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/eafb84d9738770aa47ff20fe38166a72/transformed/firebase-analytics-impl-9.6.1/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/72ed435bb6e38e03fcfa36d0926f4061/transformed/firebase-iid-9.6.1/AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-iid:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/72ed435bb6e38e03fcfa36d0926f4061/transformed/firebase-iid-9.6.1/AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-common:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/5c8119b3864c65550ad80f218d9a8a5d/transformed/firebase-common-9.6.1/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.firebase:firebase-common:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/5c8119b3864c65550ad80f218d9a8a5d/transformed/firebase-common-9.6.1/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-gass:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/f8109d09a6b2a17e820e3a21b589be2b/transformed/play-services-gass-9.6.1/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-gass:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/f8109d09a6b2a17e820e3a21b589be2b/transformed/play-services-gass-9.6.1/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/34ca16a3321a5427c1dc9ecb897756f3/transformed/play-services-tasks-9.6.1/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/34ca16a3321a5427c1dc9ecb897756f3/transformed/play-services-tasks-9.6.1/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/26f31b8faaa88396c43eecbd688ffeac/transformed/play-services-basement-9.6.1/AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/26f31b8faaa88396c43eecbd688ffeac/transformed/play-services-basement-9.6.1/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:palette-v7:24.0.0] /Users/chandanjindal/.gradle/caches/transforms-3/05678a6c575830135389204821939714/transformed/palette-v7-24.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:palette-v7:24.0.0] /Users/chandanjindal/.gradle/caches/transforms-3/05678a6c575830135389204821939714/transformed/palette-v7-24.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:support-v4:24.0.0] /Users/chandanjindal/.gradle/caches/transforms-3/4fdbbfeac86aab60e1ff62ab1168b17f/transformed/support-v4-24.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.0.0] /Users/chandanjindal/.gradle/caches/transforms-3/4fdbbfeac86aab60e1ff62ab1168b17f/transformed/support-v4-24.0.0/AndroidManifest.xml:25:5-20
+	android:supportsRtl
+		ADDED from /Users/chandanjindal/AndroidStudioProjects/Flight Booking deepak/app/src/main/AndroidManifest.xml:18:9-35
+	android:label
+		ADDED from /Users/chandanjindal/AndroidStudioProjects/Flight Booking deepak/app/src/main/AndroidManifest.xml:17:9-41
+	android:icon
+		ADDED from /Users/chandanjindal/AndroidStudioProjects/Flight Booking deepak/app/src/main/AndroidManifest.xml:16:9-43
+	android:allowBackup
+		ADDED from /Users/chandanjindal/AndroidStudioProjects/Flight Booking deepak/app/src/main/AndroidManifest.xml:15:9-35
+	android:theme
+		ADDED from /Users/chandanjindal/AndroidStudioProjects/Flight Booking deepak/app/src/main/AndroidManifest.xml:19:9-40
+activity#com.example.user.flight_booking.MainActivity
+ADDED from /Users/chandanjindal/AndroidStudioProjects/Flight Booking deepak/app/src/main/AndroidManifest.xml:20:9-26:12
+	android:name
+		ADDED from /Users/chandanjindal/AndroidStudioProjects/Flight Booking deepak/app/src/main/AndroidManifest.xml:20:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/chandanjindal/AndroidStudioProjects/Flight Booking deepak/app/src/main/AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from /Users/chandanjindal/AndroidStudioProjects/Flight Booking deepak/app/src/main/AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from /Users/chandanjindal/AndroidStudioProjects/Flight Booking deepak/app/src/main/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/chandanjindal/AndroidStudioProjects/Flight Booking deepak/app/src/main/AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from /Users/chandanjindal/AndroidStudioProjects/Flight Booking deepak/app/src/main/AndroidManifest.xml:23:27-74
+activity#com.example.user.flight_booking.Book
+ADDED from /Users/chandanjindal/AndroidStudioProjects/Flight Booking deepak/app/src/main/AndroidManifest.xml:28:13-46
+	android:name
+		ADDED from /Users/chandanjindal/AndroidStudioProjects/Flight Booking deepak/app/src/main/AndroidManifest.xml:28:23-43
+activity#com.example.user.flight_booking.Destinations
+ADDED from /Users/chandanjindal/AndroidStudioProjects/Flight Booking deepak/app/src/main/AndroidManifest.xml:29:9-50
+	android:name
+		ADDED from /Users/chandanjindal/AndroidStudioProjects/Flight Booking deepak/app/src/main/AndroidManifest.xml:29:19-47
+activity#com.example.user.flight_booking.Contactus
+ADDED from /Users/chandanjindal/AndroidStudioProjects/Flight Booking deepak/app/src/main/AndroidManifest.xml:31:9-47
+	android:name
+		ADDED from /Users/chandanjindal/AndroidStudioProjects/Flight Booking deepak/app/src/main/AndroidManifest.xml:31:19-44
+activity#com.example.user.flight_booking.Log
+ADDED from /Users/chandanjindal/AndroidStudioProjects/Flight Booking deepak/app/src/main/AndroidManifest.xml:32:9-41
+	android:name
+		ADDED from /Users/chandanjindal/AndroidStudioProjects/Flight Booking deepak/app/src/main/AndroidManifest.xml:32:19-38
+activity#com.example.user.flight_booking.Share
+ADDED from /Users/chandanjindal/AndroidStudioProjects/Flight Booking deepak/app/src/main/AndroidManifest.xml:33:9-43
+	android:name
+		ADDED from /Users/chandanjindal/AndroidStudioProjects/Flight Booking deepak/app/src/main/AndroidManifest.xml:33:19-40
+activity#com.example.user.flight_booking.Sign
+ADDED from /Users/chandanjindal/AndroidStudioProjects/Flight Booking deepak/app/src/main/AndroidManifest.xml:34:9-42
+	android:name
+		ADDED from /Users/chandanjindal/AndroidStudioProjects/Flight Booking deepak/app/src/main/AndroidManifest.xml:34:19-39
+uses-sdk
+INJECTED from /Users/chandanjindal/AndroidStudioProjects/Flight Booking deepak/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/chandanjindal/AndroidStudioProjects/Flight Booking deepak/app/src/main/AndroidManifest.xml
+INJECTED from /Users/chandanjindal/AndroidStudioProjects/Flight Booking deepak/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.gms:play-services:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/022686216b9d7340e1cf66c766af441a/transformed/play-services-9.6.1/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/022686216b9d7340e1cf66c766af441a/transformed/play-services-9.6.1/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-cast-framework:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/bd7e53a58bc7ffd5499815dbda4d4da9/transformed/play-services-cast-framework-9.6.1/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-cast-framework:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/bd7e53a58bc7ffd5499815dbda4d4da9/transformed/play-services-cast-framework-9.6.1/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-cast:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/7c3bb00c05c825f0e3b61ba80ae6d972/transformed/play-services-cast-9.6.1/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-cast:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/7c3bb00c05c825f0e3b61ba80ae6d972/transformed/play-services-cast-9.6.1/AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:mediarouter-v7:24.0.0] /Users/chandanjindal/.gradle/caches/transforms-3/acc77fb11cb0500da1f6e1db003e04a3/transformed/mediarouter-v7-24.0.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:mediarouter-v7:24.0.0] /Users/chandanjindal/.gradle/caches/transforms-3/acc77fb11cb0500da1f6e1db003e04a3/transformed/mediarouter-v7-24.0.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:24.0.0] /Users/chandanjindal/.gradle/caches/transforms-3/81cd004e4a31d1effc698a082b99412f/transformed/appcompat-v7-24.0.0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:24.0.0] /Users/chandanjindal/.gradle/caches/transforms-3/81cd004e4a31d1effc698a082b99412f/transformed/appcompat-v7-24.0.0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.google.android.gms:play-services-awareness:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/20dbe2017eba23102d636ee6cb0bc2ea/transformed/play-services-awareness-9.6.1/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-awareness:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/20dbe2017eba23102d636ee6cb0bc2ea/transformed/play-services-awareness-9.6.1/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-places:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/bdcfa0be416cb28f7efdc8615b51c62a/transformed/play-services-places-9.6.1/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-places:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/bdcfa0be416cb28f7efdc8615b51c62a/transformed/play-services-places-9.6.1/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-wallet:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/245fb8664aa543a763c2b8fb31990a53/transformed/play-services-wallet-9.6.1/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-wallet:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/245fb8664aa543a763c2b8fb31990a53/transformed/play-services-wallet-9.6.1/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-maps:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/dac417e8071f771136b3e57daea44a4b/transformed/play-services-maps-9.6.1/AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-maps:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/dac417e8071f771136b3e57daea44a4b/transformed/play-services-maps-9.6.1/AndroidManifest.xml:23:5-42
+MERGED from [com.android.support:animated-vector-drawable:24.0.0] /Users/chandanjindal/.gradle/caches/transforms-3/8d70954892f96c5ee7ae18a479e2e36c/transformed/animated-vector-drawable-24.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:24.0.0] /Users/chandanjindal/.gradle/caches/transforms-3/8d70954892f96c5ee7ae18a479e2e36c/transformed/animated-vector-drawable-24.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.0.0] /Users/chandanjindal/.gradle/caches/transforms-3/2dcb8c70e5c7dffc4496251c51c14cf9/transformed/support-vector-drawable-24.0.0/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:24.0.0] /Users/chandanjindal/.gradle/caches/transforms-3/2dcb8c70e5c7dffc4496251c51c14cf9/transformed/support-vector-drawable-24.0.0/AndroidManifest.xml:21:5-43
+MERGED from [com.google.android.gms:play-services-ads:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/04b4bfd96952fd7f6afc4c95132c9de4/transformed/play-services-ads-9.6.1/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-ads:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/04b4bfd96952fd7f6afc4c95132c9de4/transformed/play-services-ads-9.6.1/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-analytics:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/4aacee4ed00f52b610b336c739a7f39a/transformed/play-services-analytics-9.6.1/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-analytics:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/4aacee4ed00f52b610b336c739a7f39a/transformed/play-services-analytics-9.6.1/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/2f31350a5c0afd450ab3fbd43a75c95c/transformed/play-services-tagmanager-9.6.1/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/2f31350a5c0afd450ab3fbd43a75c95c/transformed/play-services-tagmanager-9.6.1/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/34fc83483ce373d70be536ee59e721f4/transformed/play-services-analytics-impl-9.6.1/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/34fc83483ce373d70be536ee59e721f4/transformed/play-services-analytics-impl-9.6.1/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-appinvite:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/b847b03dbd7bd35b1738c57c7a9996da/transformed/play-services-appinvite-9.6.1/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-appinvite:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/b847b03dbd7bd35b1738c57c7a9996da/transformed/play-services-appinvite-9.6.1/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-auth:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/04e5d501b0da464c47c8d39fe9332ccf/transformed/play-services-auth-9.6.1/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-auth:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/04e5d501b0da464c47c8d39fe9332ccf/transformed/play-services-auth-9.6.1/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-auth-base:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/e1ec9262dc55f3e5b7ba8c2f5ec7b6fe/transformed/play-services-auth-base-9.6.1/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-auth-base:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/e1ec9262dc55f3e5b7ba8c2f5ec7b6fe/transformed/play-services-auth-base-9.6.1/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-clearcut:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/2736db4aff75cd8b7a15e08d83343e4d/transformed/play-services-clearcut-9.6.1/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-clearcut:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/2736db4aff75cd8b7a15e08d83343e4d/transformed/play-services-clearcut-9.6.1/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-config:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/5d1e9377959ac387045da39a369ccd4b/transformed/firebase-config-9.6.1/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-config:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/5d1e9377959ac387045da39a369ccd4b/transformed/firebase-config-9.6.1/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-games:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/156327f33675f666053fc0b7bfed34e6/transformed/play-services-games-9.6.1/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-games:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/156327f33675f666053fc0b7bfed34e6/transformed/play-services-games-9.6.1/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-drive:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/40455d128a4a10aea2b2d0225b03da7b/transformed/play-services-drive-9.6.1/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-drive:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/40455d128a4a10aea2b2d0225b03da7b/transformed/play-services-drive-9.6.1/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-auth:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/68744ffeae71cc99cc7698e31233ec0b/transformed/firebase-auth-9.6.1/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-auth:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/68744ffeae71cc99cc7698e31233ec0b/transformed/firebase-auth-9.6.1/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-auth-common:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/2bfbc2c354b06ed87406d2047fbc8847/transformed/firebase-auth-common-9.6.1/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-auth-common:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/2bfbc2c354b06ed87406d2047fbc8847/transformed/firebase-auth-common-9.6.1/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-auth-module:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/6f2398f5d55c8287af2e6212fbaad0d8/transformed/firebase-auth-module-9.6.1/AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-auth-module:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/6f2398f5d55c8287af2e6212fbaad0d8/transformed/firebase-auth-module-9.6.1/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-fitness:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/fc8428ae180025bc837aa57e0ed853eb/transformed/play-services-fitness-9.6.1/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-fitness:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/fc8428ae180025bc837aa57e0ed853eb/transformed/play-services-fitness-9.6.1/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-gcm:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/dce10d5ebcb1a0f03d7b4224cbd0e751/transformed/play-services-gcm-9.6.1/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-gcm:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/dce10d5ebcb1a0f03d7b4224cbd0e751/transformed/play-services-gcm-9.6.1/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/0a1d1a5035189c4fbfb5c5db696be64d/transformed/play-services-appindexing-9.6.1/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/0a1d1a5035189c4fbfb5c5db696be64d/transformed/play-services-appindexing-9.6.1/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-identity:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/8081269fef5a6d86cf2f841fe5231f81/transformed/play-services-identity-9.6.1/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-identity:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/8081269fef5a6d86cf2f841fe5231f81/transformed/play-services-identity-9.6.1/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-iid:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/0531acddf25e7720ef1b01ca10d0457b/transformed/play-services-iid-9.6.1/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-iid:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/0531acddf25e7720ef1b01ca10d0457b/transformed/play-services-iid-9.6.1/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-instantapps:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/493709a60f9dfd060a170fde2891c096/transformed/play-services-instantapps-9.6.1/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-instantapps:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/493709a60f9dfd060a170fde2891c096/transformed/play-services-instantapps-9.6.1/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-location:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/753260a8cb80c82a09aa2628a762a4d2/transformed/play-services-location-9.6.1/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-location:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/753260a8cb80c82a09aa2628a762a4d2/transformed/play-services-location-9.6.1/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-nearby:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/05800f79f9d5ad258832f05819476c76/transformed/play-services-nearby-9.6.1/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-nearby:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/05800f79f9d5ad258832f05819476c76/transformed/play-services-nearby-9.6.1/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-panorama:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/b4bd3ce1e3a015ee514f6279e0ab8cf1/transformed/play-services-panorama-9.6.1/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-panorama:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/b4bd3ce1e3a015ee514f6279e0ab8cf1/transformed/play-services-panorama-9.6.1/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-plus:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/a35fe6ae490592013893544c59c6d6b3/transformed/play-services-plus-9.6.1/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-plus:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/a35fe6ae490592013893544c59c6d6b3/transformed/play-services-plus-9.6.1/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-safetynet:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/bd3b0e6378203e47ed7f29fe4c8ab856/transformed/play-services-safetynet-9.6.1/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-safetynet:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/bd3b0e6378203e47ed7f29fe4c8ab856/transformed/play-services-safetynet-9.6.1/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-vision:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/00176d07f4499b86dfba239da143c571/transformed/play-services-vision-9.6.1/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-vision:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/00176d07f4499b86dfba239da143c571/transformed/play-services-vision-9.6.1/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-wearable:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/d6ccf2ff40f533fe7b770e81c5b9f349/transformed/play-services-wearable-9.6.1/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-wearable:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/d6ccf2ff40f533fe7b770e81c5b9f349/transformed/play-services-wearable-9.6.1/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/ed505bdd17a9d51f6b519ab3177dda39/transformed/play-services-base-9.6.1/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/ed505bdd17a9d51f6b519ab3177dda39/transformed/play-services-base-9.6.1/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-ads-lite:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/46bbd947414bd6d19ca1a1e2551c4824/transformed/play-services-ads-lite-9.6.1/AndroidManifest.xml:22:5-42
+MERGED from [com.google.android.gms:play-services-ads-lite:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/46bbd947414bd6d19ca1a1e2551c4824/transformed/play-services-ads-lite-9.6.1/AndroidManifest.xml:22:5-42
+MERGED from [com.google.firebase:firebase-crash:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/1441d5c1cabecadc2a9fb52e1eae79ac/transformed/firebase-crash-9.6.1/AndroidManifest.xml:20:5-42
+MERGED from [com.google.firebase:firebase-crash:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/1441d5c1cabecadc2a9fb52e1eae79ac/transformed/firebase-crash-9.6.1/AndroidManifest.xml:20:5-42
+MERGED from [com.google.firebase:firebase-database:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/a51de974ed4f168be3a96c077cf021f3/transformed/firebase-database-9.6.1/AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-database:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/a51de974ed4f168be3a96c077cf021f3/transformed/firebase-database-9.6.1/AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-database-connection:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/81852f70f4a9e59e610883aaa03dec05/transformed/firebase-database-connection-9.6.1/AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-database-connection:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/81852f70f4a9e59e610883aaa03dec05/transformed/firebase-database-connection-9.6.1/AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-messaging:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/daf5de14df4363146f0359733b06717a/transformed/firebase-messaging-9.6.1/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-messaging:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/daf5de14df4363146f0359733b06717a/transformed/firebase-messaging-9.6.1/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/95f6b2906bf83d417c98960a99d4fdba/transformed/play-services-tagmanager-api-9.6.1/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/95f6b2906bf83d417c98960a99d4fdba/transformed/play-services-tagmanager-api-9.6.1/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/82210cfc5d91cac247cbf2caa584f292/transformed/firebase-analytics-9.6.1/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/82210cfc5d91cac247cbf2caa584f292/transformed/firebase-analytics-9.6.1/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/eafb84d9738770aa47ff20fe38166a72/transformed/firebase-analytics-impl-9.6.1/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/eafb84d9738770aa47ff20fe38166a72/transformed/firebase-analytics-impl-9.6.1/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-iid:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/72ed435bb6e38e03fcfa36d0926f4061/transformed/firebase-iid-9.6.1/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-iid:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/72ed435bb6e38e03fcfa36d0926f4061/transformed/firebase-iid-9.6.1/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-storage:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/8c85dcdabb5cd89d698a0789fb3bc3de/transformed/firebase-storage-9.6.1/AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-storage:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/8c85dcdabb5cd89d698a0789fb3bc3de/transformed/firebase-storage-9.6.1/AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-storage-common:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/81e967b6ec0468d56f44a61c1d202046/transformed/firebase-storage-common-9.6.1/AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-storage-common:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/81e967b6ec0468d56f44a61c1d202046/transformed/firebase-storage-common-9.6.1/AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-common:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/5c8119b3864c65550ad80f218d9a8a5d/transformed/firebase-common-9.6.1/AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-common:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/5c8119b3864c65550ad80f218d9a8a5d/transformed/firebase-common-9.6.1/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-gass:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/f8109d09a6b2a17e820e3a21b589be2b/transformed/play-services-gass-9.6.1/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-gass:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/f8109d09a6b2a17e820e3a21b589be2b/transformed/play-services-gass-9.6.1/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/34ca16a3321a5427c1dc9ecb897756f3/transformed/play-services-tasks-9.6.1/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/34ca16a3321a5427c1dc9ecb897756f3/transformed/play-services-tasks-9.6.1/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/26f31b8faaa88396c43eecbd688ffeac/transformed/play-services-basement-9.6.1/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/26f31b8faaa88396c43eecbd688ffeac/transformed/play-services-basement-9.6.1/AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:palette-v7:24.0.0] /Users/chandanjindal/.gradle/caches/transforms-3/05678a6c575830135389204821939714/transformed/palette-v7-24.0.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:palette-v7:24.0.0] /Users/chandanjindal/.gradle/caches/transforms-3/05678a6c575830135389204821939714/transformed/palette-v7-24.0.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:24.0.0] /Users/chandanjindal/.gradle/caches/transforms-3/4fdbbfeac86aab60e1ff62ab1168b17f/transformed/support-v4-24.0.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:24.0.0] /Users/chandanjindal/.gradle/caches/transforms-3/4fdbbfeac86aab60e1ff62ab1168b17f/transformed/support-v4-24.0.0/AndroidManifest.xml:21:5-23:54
+INJECTED from /Users/chandanjindal/AndroidStudioProjects/Flight Booking deepak/app/src/main/AndroidManifest.xml
+INJECTED from /Users/chandanjindal/AndroidStudioProjects/Flight Booking deepak/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.0.0] /Users/chandanjindal/.gradle/caches/transforms-3/81cd004e4a31d1effc698a082b99412f/transformed/appcompat-v7-24.0.0/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/chandanjindal/AndroidStudioProjects/Flight Booking deepak/app/src/main/AndroidManifest.xml
+		ADDED from /Users/chandanjindal/AndroidStudioProjects/Flight Booking deepak/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/chandanjindal/AndroidStudioProjects/Flight Booking deepak/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/chandanjindal/AndroidStudioProjects/Flight Booking deepak/app/src/main/AndroidManifest.xml
+		ADDED from /Users/chandanjindal/AndroidStudioProjects/Flight Booking deepak/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/chandanjindal/AndroidStudioProjects/Flight Booking deepak/app/src/main/AndroidManifest.xml
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/bd7e53a58bc7ffd5499815dbda4d4da9/transformed/play-services-cast-framework-9.6.1/AndroidManifest.xml:5:9-99
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/bd7e53a58bc7ffd5499815dbda4d4da9/transformed/play-services-cast-framework-9.6.1/AndroidManifest.xml:5:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/bd7e53a58bc7ffd5499815dbda4d4da9/transformed/play-services-cast-framework-9.6.1/AndroidManifest.xml:6:9-103
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/bd7e53a58bc7ffd5499815dbda4d4da9/transformed/play-services-cast-framework-9.6.1/AndroidManifest.xml:6:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/bd7e53a58bc7ffd5499815dbda4d4da9/transformed/play-services-cast-framework-9.6.1/AndroidManifest.xml:7:9-92
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/bd7e53a58bc7ffd5499815dbda4d4da9/transformed/play-services-cast-framework-9.6.1/AndroidManifest.xml:7:18-90
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/dac417e8071f771136b3e57daea44a4b/transformed/play-services-maps-9.6.1/AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-analytics:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/4aacee4ed00f52b610b336c739a7f39a/transformed/play-services-analytics-9.6.1/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/4aacee4ed00f52b610b336c739a7f39a/transformed/play-services-analytics-9.6.1/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/34fc83483ce373d70be536ee59e721f4/transformed/play-services-analytics-impl-9.6.1/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/34fc83483ce373d70be536ee59e721f4/transformed/play-services-analytics-impl-9.6.1/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-nearby:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/05800f79f9d5ad258832f05819476c76/transformed/play-services-nearby-9.6.1/AndroidManifest.xml:4:5-78
+MERGED from [com.google.android.gms:play-services-nearby:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/05800f79f9d5ad258832f05819476c76/transformed/play-services-nearby-9.6.1/AndroidManifest.xml:4:5-78
+MERGED from [com.google.android.gms:play-services-ads-lite:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/46bbd947414bd6d19ca1a1e2551c4824/transformed/play-services-ads-lite-9.6.1/AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-ads-lite:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/46bbd947414bd6d19ca1a1e2551c4824/transformed/play-services-ads-lite-9.6.1/AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/95f6b2906bf83d417c98960a99d4fdba/transformed/play-services-tagmanager-api-9.6.1/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/95f6b2906bf83d417c98960a99d4fdba/transformed/play-services-tagmanager-api-9.6.1/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/82210cfc5d91cac247cbf2caa584f292/transformed/firebase-analytics-9.6.1/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/82210cfc5d91cac247cbf2caa584f292/transformed/firebase-analytics-9.6.1/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/eafb84d9738770aa47ff20fe38166a72/transformed/firebase-analytics-impl-9.6.1/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/eafb84d9738770aa47ff20fe38166a72/transformed/firebase-analytics-impl-9.6.1/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/72ed435bb6e38e03fcfa36d0926f4061/transformed/firebase-iid-9.6.1/AndroidManifest.xml:19:5-78
+MERGED from [com.google.firebase:firebase-iid:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/72ed435bb6e38e03fcfa36d0926f4061/transformed/firebase-iid-9.6.1/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/dac417e8071f771136b3e57daea44a4b/transformed/play-services-maps-9.6.1/AndroidManifest.xml:19:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/dac417e8071f771136b3e57daea44a4b/transformed/play-services-maps-9.6.1/AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/dac417e8071f771136b3e57daea44a4b/transformed/play-services-maps-9.6.1/AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/dac417e8071f771136b3e57daea44a4b/transformed/play-services-maps-9.6.1/AndroidManifest.xml:21:52-75
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-analytics:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/4aacee4ed00f52b610b336c739a7f39a/transformed/play-services-analytics-9.6.1/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/34fc83483ce373d70be536ee59e721f4/transformed/play-services-analytics-impl-9.6.1/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/34fc83483ce373d70be536ee59e721f4/transformed/play-services-analytics-impl-9.6.1/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/82210cfc5d91cac247cbf2caa584f292/transformed/firebase-analytics-9.6.1/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/82210cfc5d91cac247cbf2caa584f292/transformed/firebase-analytics-9.6.1/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/eafb84d9738770aa47ff20fe38166a72/transformed/firebase-analytics-impl-9.6.1/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/eafb84d9738770aa47ff20fe38166a72/transformed/firebase-analytics-impl-9.6.1/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/72ed435bb6e38e03fcfa36d0926f4061/transformed/firebase-iid-9.6.1/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/72ed435bb6e38e03fcfa36d0926f4061/transformed/firebase-iid-9.6.1/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/4aacee4ed00f52b610b336c739a7f39a/transformed/play-services-analytics-9.6.1/AndroidManifest.xml:24:22-65
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/b847b03dbd7bd35b1738c57c7a9996da/transformed/play-services-appinvite-9.6.1/AndroidManifest.xml:20:9-25:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/b847b03dbd7bd35b1738c57c7a9996da/transformed/play-services-appinvite-9.6.1/AndroidManifest.xml:20:51-74
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/b847b03dbd7bd35b1738c57c7a9996da/transformed/play-services-appinvite-9.6.1/AndroidManifest.xml:20:75-121
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/b847b03dbd7bd35b1738c57c7a9996da/transformed/play-services-appinvite-9.6.1/AndroidManifest.xml:20:19-50
+intent-filter#action:name:com.google.android.gms.appinvite.ACTION_PREVIEW+category:name:android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/b847b03dbd7bd35b1738c57c7a9996da/transformed/play-services-appinvite-9.6.1/AndroidManifest.xml:21:13-24:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/b847b03dbd7bd35b1738c57c7a9996da/transformed/play-services-appinvite-9.6.1/AndroidManifest.xml:22:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/b847b03dbd7bd35b1738c57c7a9996da/transformed/play-services-appinvite-9.6.1/AndroidManifest.xml:22:25-87
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/b847b03dbd7bd35b1738c57c7a9996da/transformed/play-services-appinvite-9.6.1/AndroidManifest.xml:23:17-75
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/b847b03dbd7bd35b1738c57c7a9996da/transformed/play-services-appinvite-9.6.1/AndroidManifest.xml:23:27-73
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/04e5d501b0da464c47c8d39fe9332ccf/transformed/play-services-auth-9.6.1/AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/04e5d501b0da464c47c8d39fe9332ccf/transformed/play-services-auth-9.6.1/AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/04e5d501b0da464c47c8d39fe9332ccf/transformed/play-services-auth-9.6.1/AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/04e5d501b0da464c47c8d39fe9332ccf/transformed/play-services-auth-9.6.1/AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/04e5d501b0da464c47c8d39fe9332ccf/transformed/play-services-auth-9.6.1/AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/04e5d501b0da464c47c8d39fe9332ccf/transformed/play-services-auth-9.6.1/AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/04e5d501b0da464c47c8d39fe9332ccf/transformed/play-services-auth-9.6.1/AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/04e5d501b0da464c47c8d39fe9332ccf/transformed/play-services-auth-9.6.1/AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/04e5d501b0da464c47c8d39fe9332ccf/transformed/play-services-auth-9.6.1/AndroidManifest.xml:24:18-63
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/dce10d5ebcb1a0f03d7b4224cbd0e751/transformed/play-services-gcm-9.6.1/AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/0531acddf25e7720ef1b01ca10d0457b/transformed/play-services-iid-9.6.1/AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/0531acddf25e7720ef1b01ca10d0457b/transformed/play-services-iid-9.6.1/AndroidManifest.xml:20:5-81
+MERGED from [com.google.firebase:firebase-iid:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/72ed435bb6e38e03fcfa36d0926f4061/transformed/firebase-iid-9.6.1/AndroidManifest.xml:22:5-81
+MERGED from [com.google.firebase:firebase-iid:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/72ed435bb6e38e03fcfa36d0926f4061/transformed/firebase-iid-9.6.1/AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/dce10d5ebcb1a0f03d7b4224cbd0e751/transformed/play-services-gcm-9.6.1/AndroidManifest.xml:20:22-79
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/ed505bdd17a9d51f6b519ab3177dda39/transformed/play-services-base-9.6.1/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/ed505bdd17a9d51f6b519ab3177dda39/transformed/play-services-base-9.6.1/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/ed505bdd17a9d51f6b519ab3177dda39/transformed/play-services-base-9.6.1/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/ed505bdd17a9d51f6b519ab3177dda39/transformed/play-services-base-9.6.1/AndroidManifest.xml:19:19-85
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/46bbd947414bd6d19ca1a1e2551c4824/transformed/play-services-ads-lite-9.6.1/AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/46bbd947414bd6d19ca1a1e2551c4824/transformed/play-services-ads-lite-9.6.1/AndroidManifest.xml:25:72-181
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/46bbd947414bd6d19ca1a1e2551c4824/transformed/play-services-ads-lite-9.6.1/AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/46bbd947414bd6d19ca1a1e2551c4824/transformed/play-services-ads-lite-9.6.1/AndroidManifest.xml:25:19-71
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/46bbd947414bd6d19ca1a1e2551c4824/transformed/play-services-ads-lite-9.6.1/AndroidManifest.xml:26:9-131
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/46bbd947414bd6d19ca1a1e2551c4824/transformed/play-services-ads-lite-9.6.1/AndroidManifest.xml:26:92-129
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/46bbd947414bd6d19ca1a1e2551c4824/transformed/play-services-ads-lite-9.6.1/AndroidManifest.xml:26:19-91
+service#com.google.firebase.crash.internal.service.FirebaseCrashReceiverService
+ADDED from [com.google.firebase:firebase-crash:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/1441d5c1cabecadc2a9fb52e1eae79ac/transformed/firebase-crash-9.6.1/AndroidManifest.xml:24:9-117
+	android:process
+		ADDED from [com.google.firebase:firebase-crash:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/1441d5c1cabecadc2a9fb52e1eae79ac/transformed/firebase-crash-9.6.1/AndroidManifest.xml:24:80-115
+	android:name
+		ADDED from [com.google.firebase:firebase-crash:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/1441d5c1cabecadc2a9fb52e1eae79ac/transformed/firebase-crash-9.6.1/AndroidManifest.xml:24:18-79
+service#com.google.firebase.crash.internal.service.FirebaseCrashSenderService
+ADDED from [com.google.firebase:firebase-crash:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/1441d5c1cabecadc2a9fb52e1eae79ac/transformed/firebase-crash-9.6.1/AndroidManifest.xml:26:9-115
+	android:process
+		ADDED from [com.google.firebase:firebase-crash:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/1441d5c1cabecadc2a9fb52e1eae79ac/transformed/firebase-crash-9.6.1/AndroidManifest.xml:26:78-113
+	android:name
+		ADDED from [com.google.firebase:firebase-crash:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/1441d5c1cabecadc2a9fb52e1eae79ac/transformed/firebase-crash-9.6.1/AndroidManifest.xml:26:18-77
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/daf5de14df4363146f0359733b06717a/transformed/firebase-messaging-9.6.1/AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/daf5de14df4363146f0359733b06717a/transformed/firebase-messaging-9.6.1/AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/daf5de14df4363146f0359733b06717a/transformed/firebase-messaging-9.6.1/AndroidManifest.xml:23:18-87
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/daf5de14df4363146f0359733b06717a/transformed/firebase-messaging-9.6.1/AndroidManifest.xml:24:13-26:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/daf5de14df4363146f0359733b06717a/transformed/firebase-messaging-9.6.1/AndroidManifest.xml:24:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/daf5de14df4363146f0359733b06717a/transformed/firebase-messaging-9.6.1/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/daf5de14df4363146f0359733b06717a/transformed/firebase-messaging-9.6.1/AndroidManifest.xml:25:25-75
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/95f6b2906bf83d417c98960a99d4fdba/transformed/play-services-tagmanager-api-9.6.1/AndroidManifest.xml:24:9-134
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/95f6b2906bf83d417c98960a99d4fdba/transformed/play-services-tagmanager-api-9.6.1/AndroidManifest.xml:24:110-132
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/95f6b2906bf83d417c98960a99d4fdba/transformed/play-services-tagmanager-api-9.6.1/AndroidManifest.xml:24:85-109
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/95f6b2906bf83d417c98960a99d4fdba/transformed/play-services-tagmanager-api-9.6.1/AndroidManifest.xml:24:18-84
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/95f6b2906bf83d417c98960a99d4fdba/transformed/play-services-tagmanager-api-9.6.1/AndroidManifest.xml:25:9-32:20
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/95f6b2906bf83d417c98960a99d4fdba/transformed/play-services-tagmanager-api-9.6.1/AndroidManifest.xml:25:94-118
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/95f6b2906bf83d417c98960a99d4fdba/transformed/play-services-tagmanager-api-9.6.1/AndroidManifest.xml:25:19-93
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:tagmanager.c.${applicationId}
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/95f6b2906bf83d417c98960a99d4fdba/transformed/play-services-tagmanager-api-9.6.1/AndroidManifest.xml:26:13-31:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:tagmanager.c.com.example.user.flight_booking
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/95f6b2906bf83d417c98960a99d4fdba/transformed/play-services-tagmanager-api-9.6.1/AndroidManifest.xml:26:13-31:29
+data
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/95f6b2906bf83d417c98960a99d4fdba/transformed/play-services-tagmanager-api-9.6.1/AndroidManifest.xml:27:17-71
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/95f6b2906bf83d417c98960a99d4fdba/transformed/play-services-tagmanager-api-9.6.1/AndroidManifest.xml:27:23-69
+action#android.intent.action.VIEW
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/95f6b2906bf83d417c98960a99d4fdba/transformed/play-services-tagmanager-api-9.6.1/AndroidManifest.xml:28:17-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/95f6b2906bf83d417c98960a99d4fdba/transformed/play-services-tagmanager-api-9.6.1/AndroidManifest.xml:28:25-66
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/95f6b2906bf83d417c98960a99d4fdba/transformed/play-services-tagmanager-api-9.6.1/AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/95f6b2906bf83d417c98960a99d4fdba/transformed/play-services-tagmanager-api-9.6.1/AndroidManifest.xml:30:27-75
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/82210cfc5d91cac247cbf2caa584f292/transformed/firebase-analytics-9.6.1/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/eafb84d9738770aa47ff20fe38166a72/transformed/firebase-analytics-impl-9.6.1/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/eafb84d9738770aa47ff20fe38166a72/transformed/firebase-analytics-impl-9.6.1/AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/82210cfc5d91cac247cbf2caa584f292/transformed/firebase-analytics-9.6.1/AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/82210cfc5d91cac247cbf2caa584f292/transformed/firebase-analytics-9.6.1/AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/82210cfc5d91cac247cbf2caa584f292/transformed/firebase-analytics-9.6.1/AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/82210cfc5d91cac247cbf2caa584f292/transformed/firebase-analytics-9.6.1/AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/82210cfc5d91cac247cbf2caa584f292/transformed/firebase-analytics-9.6.1/AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/82210cfc5d91cac247cbf2caa584f292/transformed/firebase-analytics-9.6.1/AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/82210cfc5d91cac247cbf2caa584f292/transformed/firebase-analytics-9.6.1/AndroidManifest.xml:27:17-104
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/82210cfc5d91cac247cbf2caa584f292/transformed/firebase-analytics-9.6.1/AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/82210cfc5d91cac247cbf2caa584f292/transformed/firebase-analytics-9.6.1/AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/82210cfc5d91cac247cbf2caa584f292/transformed/firebase-analytics-9.6.1/AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/82210cfc5d91cac247cbf2caa584f292/transformed/firebase-analytics-9.6.1/AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/eafb84d9738770aa47ff20fe38166a72/transformed/firebase-analytics-impl-9.6.1/AndroidManifest.xml:27:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/eafb84d9738770aa47ff20fe38166a72/transformed/firebase-analytics-impl-9.6.1/AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/82210cfc5d91cac247cbf2caa584f292/transformed/firebase-analytics-9.6.1/AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/82210cfc5d91cac247cbf2caa584f292/transformed/firebase-analytics-9.6.1/AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/82210cfc5d91cac247cbf2caa584f292/transformed/firebase-analytics-9.6.1/AndroidManifest.xml:32:16-87
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/72ed435bb6e38e03fcfa36d0926f4061/transformed/firebase-iid-9.6.1/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/72ed435bb6e38e03fcfa36d0926f4061/transformed/firebase-iid-9.6.1/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/72ed435bb6e38e03fcfa36d0926f4061/transformed/firebase-iid-9.6.1/AndroidManifest.xml:24:17-71
+permission#com.example.user.flight_booking.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/72ed435bb6e38e03fcfa36d0926f4061/transformed/firebase-iid-9.6.1/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/72ed435bb6e38e03fcfa36d0926f4061/transformed/firebase-iid-9.6.1/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/72ed435bb6e38e03fcfa36d0926f4061/transformed/firebase-iid-9.6.1/AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/72ed435bb6e38e03fcfa36d0926f4061/transformed/firebase-iid-9.6.1/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/72ed435bb6e38e03fcfa36d0926f4061/transformed/firebase-iid-9.6.1/AndroidManifest.xml:26:22-76
+uses-permission#com.example.user.flight_booking.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/72ed435bb6e38e03fcfa36d0926f4061/transformed/firebase-iid-9.6.1/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/72ed435bb6e38e03fcfa36d0926f4061/transformed/firebase-iid-9.6.1/AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/72ed435bb6e38e03fcfa36d0926f4061/transformed/firebase-iid-9.6.1/AndroidManifest.xml:30:9-36:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/72ed435bb6e38e03fcfa36d0926f4061/transformed/firebase-iid-9.6.1/AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/72ed435bb6e38e03fcfa36d0926f4061/transformed/firebase-iid-9.6.1/AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/72ed435bb6e38e03fcfa36d0926f4061/transformed/firebase-iid-9.6.1/AndroidManifest.xml:30:19-84
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+action:name:com.google.android.c2dm.intent.REGISTRATION+category:name:${applicationId}
+ADDED from [com.google.firebase:firebase-iid:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/72ed435bb6e38e03fcfa36d0926f4061/transformed/firebase-iid-9.6.1/AndroidManifest.xml:31:13-35:29
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+action:name:com.google.android.c2dm.intent.REGISTRATION+category:name:com.example.user.flight_booking
+ADDED from [com.google.firebase:firebase-iid:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/72ed435bb6e38e03fcfa36d0926f4061/transformed/firebase-iid-9.6.1/AndroidManifest.xml:31:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/72ed435bb6e38e03fcfa36d0926f4061/transformed/firebase-iid-9.6.1/AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/72ed435bb6e38e03fcfa36d0926f4061/transformed/firebase-iid-9.6.1/AndroidManifest.xml:32:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/72ed435bb6e38e03fcfa36d0926f4061/transformed/firebase-iid-9.6.1/AndroidManifest.xml:33:17-85
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/72ed435bb6e38e03fcfa36d0926f4061/transformed/firebase-iid-9.6.1/AndroidManifest.xml:33:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/72ed435bb6e38e03fcfa36d0926f4061/transformed/firebase-iid-9.6.1/AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/72ed435bb6e38e03fcfa36d0926f4061/transformed/firebase-iid-9.6.1/AndroidManifest.xml:34:27-58
+category#com.example.user.flight_booking
+ADDED from [com.google.firebase:firebase-iid:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/72ed435bb6e38e03fcfa36d0926f4061/transformed/firebase-iid-9.6.1/AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/72ed435bb6e38e03fcfa36d0926f4061/transformed/firebase-iid-9.6.1/AndroidManifest.xml:34:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/72ed435bb6e38e03fcfa36d0926f4061/transformed/firebase-iid-9.6.1/AndroidManifest.xml:40:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/72ed435bb6e38e03fcfa36d0926f4061/transformed/firebase-iid-9.6.1/AndroidManifest.xml:40:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/72ed435bb6e38e03fcfa36d0926f4061/transformed/firebase-iid-9.6.1/AndroidManifest.xml:40:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/72ed435bb6e38e03fcfa36d0926f4061/transformed/firebase-iid-9.6.1/AndroidManifest.xml:44:9-48:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/72ed435bb6e38e03fcfa36d0926f4061/transformed/firebase-iid-9.6.1/AndroidManifest.xml:44:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/72ed435bb6e38e03fcfa36d0926f4061/transformed/firebase-iid-9.6.1/AndroidManifest.xml:44:18-82
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/72ed435bb6e38e03fcfa36d0926f4061/transformed/firebase-iid-9.6.1/AndroidManifest.xml:45:13-47:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/72ed435bb6e38e03fcfa36d0926f4061/transformed/firebase-iid-9.6.1/AndroidManifest.xml:45:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/72ed435bb6e38e03fcfa36d0926f4061/transformed/firebase-iid-9.6.1/AndroidManifest.xml:46:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/72ed435bb6e38e03fcfa36d0926f4061/transformed/firebase-iid-9.6.1/AndroidManifest.xml:46:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/5c8119b3864c65550ad80f218d9a8a5d/transformed/firebase-common-9.6.1/AndroidManifest.xml:6:9-175
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/5c8119b3864c65550ad80f218d9a8a5d/transformed/firebase-common-9.6.1/AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/5c8119b3864c65550ad80f218d9a8a5d/transformed/firebase-common-9.6.1/AndroidManifest.xml:6:125-149
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/5c8119b3864c65550ad80f218d9a8a5d/transformed/firebase-common-9.6.1/AndroidManifest.xml:6:150-173
+	android:name
+		ADDED from [com.google.firebase:firebase-common:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/5c8119b3864c65550ad80f218d9a8a5d/transformed/firebase-common-9.6.1/AndroidManifest.xml:6:79-124
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/26f31b8faaa88396c43eecbd688ffeac/transformed/play-services-basement-9.6.1/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/26f31b8faaa88396c43eecbd688ffeac/transformed/play-services-basement-9.6.1/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:9.6.1] /Users/chandanjindal/.gradle/caches/transforms-3/26f31b8faaa88396c43eecbd688ffeac/transformed/play-services-basement-9.6.1/AndroidManifest.xml:20:20-65
